@@ -1,6 +1,9 @@
 # FlowField & JS Canvas Demonstration
 
-<img src="https://github.com/AlehAbakshonak/FlowField_CanvasDemo/assets/72394037/62b06d89-efbb-449d-967c-a17072697bb0" width="425"/> <img src="https://github.com/AlehAbakshonak/FlowField_CanvasDemo/assets/72394037/d12b8df2-3237-404a-9072-ca1aa094f3d9" width="425"/> 
+<p float="left" align="middle">
+  <img src="https://github.com/AlehAbakshonak/FlowField_CanvasDemo/assets/72394037/62b06d89-efbb-449d-967c-a17072697bb0" width="40%"/> 
+  <img src="https://github.com/AlehAbakshonak/FlowField_CanvasDemo/assets/72394037/d12b8df2-3237-404a-9072-ca1aa094f3d9" width="40%"/> 
+</p>
 
 Demonstration project for drawing particles moving through noise, using only JS Canvas methods.
 
