@@ -1,6 +1,10 @@
 # FlowField_CanvasDemo
-Demonstrative project for drawing patricles moving along the noise, using only JS Canvas methods.
+Demonstration project for drawing particles moving through noise, using only JS Canvas methods.
 
-I do not owe rights on Simplex.js and p5.js libraries, just using them for demonstrative purposes.
+The Russian-language stream related to this demo can be found at: https://www.youtube.com/watch?v=Bzkq7CEPVIU
+
+I do not own the rights to the Simplex.js and p5.js libraries, I just use them for demonstration purposes.
 
 Link to p5.js - https://p5js.org/
+
+Follow me in Twitter: https://twitter.com/abakshonokoleg
